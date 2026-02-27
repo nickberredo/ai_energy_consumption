@@ -33,3 +33,21 @@ Data sheets are available, and the datasets include state-specific analysis. How
 -	The dataset might be affected by issues such as climate change or immigration (for data that is not related to population growth)
 ---
 For method and code, check `final_project.ipynb`
+---
+## Results
+For better analysis, bellow is each question and my findings throughout this project.
+
+-	How has US energy consumption per capita increased after the “AI Boom” (2022)? 
+
+US energy consumption per capita has has not increased that significantly after the boom. However, high dc density states have kept a more steady consumption between 2022 and 2023 than low dc density states. This, however, is not by an ammount that significant. This could be due to the dataset only having numbers untill 2023, while lacking on the more "intense" and recent boom in 2024 and 2025.
+
+-	How have projections for energy consumption changed as suddenly more data centers are being built across the country?
+
+Projections have changed a lot. While total consumption for commercial ends will decrease or not change that much, the projections for computing have drastically changed, with a difference of projected consumption of 1 quadrillion BTU in 2050 in the most recent forecasts when compared to the 2019 analysis. This shows that the AI boom clearly changed energy consumption projections exclusevely for computing.
+
+
+-	It is known that energy prices are constantly increasing. However, have energy prices in states with high concentrations of data centers (i.e. Virginia) increased above inflation rates?
+
+High dc concentration states actually have a lower average price per btu than low dc concentration states. This could be due to corporate lobby, public policies to attract Big Tech companies, or just general political bias.
+
+---
